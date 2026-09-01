@@ -1,3 +1,5 @@
+<img src="hello_tcp_chat.svg" alt="hello_tcp_chat" width="120">
+
 # hello_tcp_chat
 Example to build a TCP chat server with clients 
 
